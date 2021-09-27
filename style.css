@@ -17,8 +17,6 @@ p
 }
 
 table {
-    margin-left     : auto;
-    margin-right    : auto;
     text-align      : left;
     padding         : 8px;
     border-collapse : collapse;
@@ -28,5 +26,6 @@ td, th{
     padding         : 4px;
     border          : 1px solid #000000;
     vertical-align  : top;   
+    min-width       : 100px;
 }
 
